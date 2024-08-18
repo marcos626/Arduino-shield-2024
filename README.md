@@ -20,10 +20,10 @@ https://randomnerdtutorials.com/25-arduino-shields/
 
 En nuestro caso, vamos a diseñar un shield que nos permita utilizar:
 
-Sensor de corriente SCT-013
-Sensor de temperatura y humedad DHT-22
-Lector RFID  RC522
-Módulo ethernet Wiznet W5500
-Módulo bluetooth bt-06
-Puertos I2C para conectar, por ejemplo, un display LCD 16x2 con adaptador I2C
-Puertos digitales y analógicos
+* Sensor de corriente SCT-013
+*Sensor de temperatura y humedad DHT-22
+* Lector RFID  RC522
+* Módulo ethernet Wiznet W5500
+* Módulo bluetooth bt-06
+* Puertos I2C para conectar, por ejemplo, un display LCD 16x2 con adaptador I2C
+* Puertos digitales y analógicos
