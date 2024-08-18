@@ -8,7 +8,9 @@
 	)
 	(paper "A4")
 	(title_block
-		(date "mar. 31 mars 2015")
+		(title "Shield Arduino UNO")
+		(date "2024-08-18")
+		(company "Curso Lab. Electrónica II")
 	)
 	(layers
 		(0 "F.Cu" signal)
